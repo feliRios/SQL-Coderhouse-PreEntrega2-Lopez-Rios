@@ -1,6 +1,6 @@
-CREATE SCHEMA `sases` ;
+CREATE SCHEMA `success_mindset` ;
 
-USE sases;
+USE success_midset;
 
 # Parte 1: CREACION DE LA BASE DE DATOS
 
